@@ -30,4 +30,4 @@ This project allows you to fetch location information, time information, and cur
     OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
 
 **Sample Output**
-    ./output.png
+    ![output image](output.png)
