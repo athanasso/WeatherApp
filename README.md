@@ -32,3 +32,5 @@ This project allows you to fetch location information, time information, and cur
 
 ## Sample Output
 ![output image](output.png)
+![home screen](homescreen.png)
+![map screen](mapscreen.png)
