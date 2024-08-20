@@ -6,6 +6,7 @@ This project allows you to fetch location information, time information, and cur
 
 ## Built With
 
+- **Expo**
 - **TypeScript**
 - **OpenCage Data**
 - **OpenWeatherMap**
@@ -29,5 +30,5 @@ This project allows you to fetch location information, time information, and cur
     OPENCAGE_API_KEY=your_opencage_api_key
     OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
 
-**Sample Output**
-    ![output image](output.png)
+## Sample Output
+![output image](output.png)
